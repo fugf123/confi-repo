@@ -13,3 +13,4 @@ server:
  # ribbon:
   #  NIWSServerListClassName: com.netflix.loadbalancer.ConfigurationBasedServerList
    # NFLoadBalancerRuleClassName: com.netflix.loadbalancer.WeightedResponseTimeRule #改变ribbon负载均衡规则
+label: release
